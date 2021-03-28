@@ -1,7 +1,7 @@
 from flask import Flask
 
 PORT = 8000
-MESSAGE = "Welcome to My first Jenkins Pipeline project... Urvashi\n"
+MESSAGE = "Welcome to My first Jenkins Pipeline project... Urvashi, \n If you read this message it means you have completed !!! \n   Wooohoooo !!!\n"
 
 app = Flask(__name__)
 
